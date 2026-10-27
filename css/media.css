@@ -1,0 +1,38 @@
+
+
+
+
+    @media screen and (min-width : 567px) and (max-width : 768px) {
+     
+    .sm-100 {
+        width: 100%;
+
+    }
+    
+    }
+
+    @media screen and (min-width : 769px) and (max-width : 992px) {
+     .md-50{
+        width: 50%;
+     }   
+    }
+
+    @media screen and (min-width : 993px) and (max-width : 1200px) {
+     .lg-33{
+        width: 33.33%;
+     }   
+    }
+
+
+    @media screen and (min-width : 1201px) and (max-width : 1400px) {
+     .xl-25{
+        width: 25%;
+     }   
+    }
+
+    
+    @media screen and (min-width : 1400px) {
+     .xxl-20{
+        width: 20%;
+     }   
+    }
